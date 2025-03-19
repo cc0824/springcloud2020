@@ -16,7 +16,7 @@
   <!-- 所有的父级项目的packaging都为pom，packaging默认类型jar类型，如果不做配置，maven会将该项目打成jar -->
   <packaging>pom</packaging>
 
-  <!-- 统一管理jar -->
+  <!-- 统一管理jar包 -->
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
